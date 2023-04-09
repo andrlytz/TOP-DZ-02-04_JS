@@ -1,0 +1,47 @@
+.container {
+    width: 1000px;
+    margin: 20px auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid black;
+}
+
+.box {
+    width: 310px;
+    height: 300px;
+    margin-left: 26.5px;
+}
+
+#but-box-one {
+    width: 200px;
+}
+
+#but-box-two {
+    width: 500px;
+}
+
+#but-box-three {
+    width: 200px;
+    text-align: center;
+    position: relative;
+}
+p {
+    position: absolute;
+    top: 125px
+}
+
+button {
+    display: inline-block;
+    width: 180px;
+    height: 50px;
+    margin-top: 10px;
+}
